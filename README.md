@@ -10,7 +10,7 @@ This script allows you to hide Elementor form file upload fields by targeting th
 
 ### 1. Add HTML + JS Using WPCode Plugin
 
-1. Go to: `WP Admin > WP Coder >  Add New > Select HTML Tab`
+1. Go to: `WP Admin > WP Coder >  Add New > Select JS Tab`
 2. Write Title of Code Snippet above
 3. Paste the full HTML + JS code from Below
 4. Save and **Activate**
